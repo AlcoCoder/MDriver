@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map MDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MDriver		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+speed	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+stop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAX	LITERAL1	Constants
