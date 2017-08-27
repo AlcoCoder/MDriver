@@ -50,4 +50,8 @@ void loop()
   m1.backward();
   m2.forward();
   delay(1000);
+  
+  m1.stop();
+  m2.stop();
+  delay(100);
 }
