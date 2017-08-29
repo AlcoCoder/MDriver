@@ -1,5 +1,5 @@
-#ifndef Ultrasonic_h
-#define Ultrasonic_h
+#ifndef MDriver_h
+#define MDriver_h
 
 #define MAX 255
 
