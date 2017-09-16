@@ -6,8 +6,8 @@
 class MDriver
 {
 public:
-	MDriver(uint8_t EN, uint8_t IN1, uint8_t IN2);
-	MDriver(uint8_t IN1, uint8_t IN2);
+	MDriver(uint8_t EN, uint8_t IN1, uint8_t IN2); //With PWM sigal
+	MDriver(uint8_t IN1, uint8_t IN2); //Without PWM signal
 
 	void speed(uint8_t speed);
 	void forward();
